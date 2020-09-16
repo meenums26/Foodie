@@ -1,0 +1,10 @@
+.navbar-light .navbar-nav .nav-link{
+    color:#000;
+}
+#callBtn{
+    border-radius:20px;
+}
+.navbar{
+    z-index: 2;
+    box-shadow: 0 8px 6px -6px rgb(247, 245, 245);
+}

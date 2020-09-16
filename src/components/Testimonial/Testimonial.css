@@ -1,0 +1,50 @@
+#testPrg{
+    width:50%;
+    color:#a5a4a9;
+}
+#testimonial{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+}
+.testmnlHead{
+    color: #ffc107;
+}
+#dummyImg{
+    width:150px;
+    margin: auto;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
+#dummyTestimonial{
+    box-shadow: 6px 8px 6px -6px rgb(224, 223, 223);
+}
+.dumSpan{
+    color:#a5a4a9;
+    font-size: 15px;
+}
+.news-letter{
+    position: relative;
+    margin-top: 50px;
+}
+#subscribeBtn{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    color: #0b0320;
+    border-radius: 50px;
+    padding: 16px 32px;
+    background-color: #ffbe00;
+    font-size: 17px;
+    border: none;
+    margin-left:2px;
+}
+.news-letter input{
+    width: 100%;
+    box-shadow: rgba(221, 221, 221, 0.51) 0px 0px 20px 0px;
+    border: none;
+    padding: 30px 25px;
+    font-size: 18px;
+    border-radius: 100px;
+}

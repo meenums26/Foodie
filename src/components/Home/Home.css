@@ -1,0 +1,23 @@
+
+#orderBtn{
+    border-radius: 30px;
+    width:160px;
+}
+.roundImg{
+    position:absolute;
+    width: 100px;
+    border: 5px solid rgb(255 190 0 / 50%);
+    border-radius: 100%;
+    background-color: #fff;
+    left: 2px;
+    top: 20px;
+}
+.menu-box{
+    box-sizing: border-box;
+}
+.menu-box .menu-text-box{
+    box-shadow: rgba(221, 221, 221, 0.51) 0px 0px 20px 0px;
+    border-radius: 10px;
+    padding: 15px 0px 15px 100px;
+    left:100px;
+}
