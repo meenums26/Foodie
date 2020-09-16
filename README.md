@@ -1,3 +1,6 @@
+For demo visit https://foodies-restuarent.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
